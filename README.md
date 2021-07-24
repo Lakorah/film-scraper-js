@@ -3,7 +3,7 @@ A simple film scraper using NodeJS &amp; puppeteer.
 
 # How to install?
 
-Download all files and type ``npm install`` your commands terminal.
+Download all files and type ``npm install`` in your commands terminal.
 To use puppeteer in your project, type ``npm i puppeteer``.
 
 # How to use?
